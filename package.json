@@ -1,0 +1,33 @@
+{
+  "name": "editor42",
+  "version": "42.0.0",
+  "description": "Editor42 rich text editor - web based JavaScript HTML WYSIWYG editor control. Auditable MIT fork of TinyMCE 6.8.6.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/editor42com/editor42.git",
+    "directory": "modules/editor42"
+  },
+  "author": "Editor42 contributors",
+  "main": "editor42.js",
+  "types": "editor42.d.ts",
+  "license": "MIT",
+  "keywords": [
+    "wysiwyg",
+    "editor42",
+    "tinymce",
+    "richtext",
+    "javascript",
+    "html",
+    "text",
+    "rich editor",
+    "rich text editor",
+    "rte",
+    "rich text",
+    "contenteditable",
+    "editing"
+  ],
+  "homepage": "https://editor42.com",
+  "bugs": {
+    "url": "https://github.com/editor42com/editor42/issues"
+  }
+}
